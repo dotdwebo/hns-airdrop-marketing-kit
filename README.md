@@ -9,4 +9,4 @@ Marketing Kits for Handshake Network's Decentralized Airdrop
 
 *********************************************************************************************
 
-🔋 Wanna give me energy? Send $HNS to this address: hs1qqrw93pt5rhn54hvzf7vf7dr9lmfjuwhrkhe39f
+🔋 Wanna give me energy? Send $HNS to this address: hs1qqrw93pt5rhn54hvzf7vf7dr9lmfjuwhrkhe39f 

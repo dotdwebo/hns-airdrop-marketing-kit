@@ -1,4 +1,4 @@
-# hns-airdrop-marketing-kit
+# HNS-Airdrop-Marketing-Kit
 Marketing Kits for Handshake Network's Decentralized Airdrop
 
 -- There are two types of files for marketing kits, namely .svg and .png.

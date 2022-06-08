@@ -3,7 +3,7 @@ Marketing Kits for Handshake Network's Decentralized Airdrop
 
 -- There are two types of files for marketing kits, namely .svg and .png.
 
--- You can download and edit this file.
+-- You can download and edit these files.
 
 -- As additional information, you can edit .svg file through free open source software called inkscape which can be downloaded at https://inkscape.org
 
